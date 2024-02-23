@@ -1,0 +1,13 @@
+model Outputs
+
+Random forest reression:
+    Mean:  3.289833581999345
+    Standard deviation:  0.7173067682815556
+
+Linear Reression:
+    Mean:  5.031655917723542
+    Standard deviation:  1.0597462593993419
+
+Decision Tree Reression:
+    Mean:  4.084364241937997
+    Standard deviation:  0.5974594242025953
