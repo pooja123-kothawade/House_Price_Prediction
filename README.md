@@ -104,11 +104,14 @@ It includes features such as:
   * R² Score
   * Mean Absolute Error (MAE)
   * Root Mean Squared Error (RMSE)
+    
 
 ---
 
 ✨ **Enjoy running Jupyter Notebooks in VS Code!** 🚀
 
 ---
+<img width="1366" height="768" alt="output2" src="https://github.com/user-attachments/assets/dba90b99-8edf-4128-91c4-fccba01256fe" />
 
+<img width="1362" height="726" alt="ss1" src="https://github.com/user-attachments/assets/d84284b5-58b6-4cab-a3ec-a2f0e2ba7144" />
 
